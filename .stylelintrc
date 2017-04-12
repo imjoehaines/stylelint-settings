@@ -72,6 +72,7 @@
     "media-query-list-comma-newline-before": "always-multi-line",
     "at-rule-name-case": "lower",
     "at-rule-name-space-after": "always",
-    "at-rule-empty-line-before": "always"
+    "at-rule-empty-line-before": "always",
+    "string-quotes": "single"
   }
 }

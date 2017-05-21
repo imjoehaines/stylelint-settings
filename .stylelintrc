@@ -76,7 +76,6 @@
       "always",
       {
         "except": [
-          "after-same-name",
           "first-nested"
         ],
         "ignore": [
